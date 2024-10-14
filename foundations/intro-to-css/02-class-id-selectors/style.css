@@ -11,3 +11,8 @@
     color: #0000ff;
     font-size: 36px
   }
+
+  #greenbold {
+    background-color: #5aed5a;
+    font-weight: bold
+  }
