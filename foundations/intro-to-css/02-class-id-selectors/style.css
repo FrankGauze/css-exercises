@@ -6,3 +6,8 @@
   .large {
     font-size: 24px
   }
+
+  #title {
+    color: #0000ff;
+    font-size: 36px
+  }
